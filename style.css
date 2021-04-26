@@ -27,3 +27,9 @@ div {
     align-items: center;
     justify-content: center;
 }
+
+footer {
+    margin-top: 120px;
+    color: black;
+    text-align: center;
+  }
