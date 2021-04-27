@@ -55,7 +55,7 @@ function initGame(){
             clearInterval(jogo);
             lose();
             alert("Game Over!!! Jogar novamente? Aperte OK.")                        
-            window.location = '/'
+            window.location.reload();
         }
     } 
 
